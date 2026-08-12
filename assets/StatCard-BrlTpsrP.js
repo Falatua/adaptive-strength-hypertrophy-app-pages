@@ -1,0 +1,1 @@
+import{r as e}from"./index-BBddht6j.js";var t=e();function n({label:e,value:n,detail:r,icon:i,tone:a=`lime`}){return(0,t.jsxs)(`article`,{className:`stat-card stat-card--${a}`,children:[(0,t.jsxs)(`div`,{className:`stat-card__top`,children:[(0,t.jsx)(`span`,{children:e}),i]}),(0,t.jsx)(`strong`,{children:n}),(0,t.jsx)(`small`,{children:r})]})}export{n as t};

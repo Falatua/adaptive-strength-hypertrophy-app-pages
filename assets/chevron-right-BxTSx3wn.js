@@ -1,0 +1,1 @@
+import{Qt as e}from"./index-C-FV4lSi.js";var t=e(`chevron-right`,[[`path`,{d:`m9 18 6-6-6-6`,key:`mthhwq`}]]);export{t};

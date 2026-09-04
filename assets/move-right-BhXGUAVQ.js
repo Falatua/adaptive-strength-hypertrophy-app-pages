@@ -1,0 +1,1 @@
+import{dn as e}from"./index-r6nMirv7.js";var t=e(`move-right`,[[`path`,{d:`M18 8L22 12L18 16`,key:`1r0oui`}],[`path`,{d:`M2 12H22`,key:`1m8cig`}]]);export{t};
